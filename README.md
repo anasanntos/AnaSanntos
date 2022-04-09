@@ -1,10 +1,10 @@
-## Oiii!Eu sou Ana Sanntos.
-**anasanntos/AnaSanntos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oiii!Eu sou Ana Sanntos.
+**anasanntos/AnaSanntos** 
 
 Here are some ideas to get you started:
 
-- 🔭 Trabalho com front-end
-- 🌱 Estudando javascript,HTMLe CSS.
+- 🔭 Trabalho com Front-End
+- 🌱 Estudando javascript, HTML e CSS.
 - 😄 Pronomes ela/dela
-- ⚡ Conatte-me no email: acssribeiro@pucminas.com
+- ⚡ Conatate-me no email: acssribeiro@pucminas.com
 -->
