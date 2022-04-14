@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 Trabalho com Front-End
 - 🌱 Estudando javascript, HTML e CSS.
 - 😄 Pronomes ela/dela
-- ⚡ Conatate-me no email: acssribeiro@pucminas.com
+- ⚡ Conatate-me no email: anacarladossanntos@gmail.com
 -->
 <a href="https://github.com/anasanntos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasanntos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
